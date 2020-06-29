@@ -43,7 +43,7 @@ section.last p {
 ---
 ## 기존의 코드젠 로고
 사실.. 코드젠은 로고가 없다.
-hustoj(코드젠이 기반하는 프로젝트)의 기본값이 Online Judge이다.
+Hustoj(코드젠이 기반하는 프로젝트)의 기본값이 Online Judge이다.
 ![bg right width:200px](https://i.imgur.com/PdzmF3Y.png)
 처음부터 새로 만들 생각에 신이 났다.
 
@@ -80,7 +80,7 @@ hustoj(코드젠이 기반하는 프로젝트)의 기본값이 Online Judge이�
 <!-- color: white -->
 ![bg](https://imgur.com/pSX9pO2.png)
 ..이상하다.
-부족하다.
+뭔가 부족하다.
 
 ---
 <!-- _class: comment -->
@@ -179,5 +179,6 @@ hustoj(코드젠이 기반하는 프로젝트)의 기본값이 Online Judge이�
 ---
 <!-- _class: comment -->
 느낀점:
-디자인은 어려운게 아니다.
-아이디어만 있다면 뭐든지 실현시킬 수 있을것같다.
+디자인은 어려운게 아니다
+아이디어만 있다면 뭐든지 실현시킬 수 있을것같다
+미술에 재능이 없다고 생각했는데, 조금 자신감을 가질 수 있는 계기가 되었다
